@@ -1,2 +1,3 @@
-Project 4 of BIOMEDIN214: Representations and Algorithms for Computational Molecular Biology
+BIOMEDIN214: Representations and Algorithms for Computational Molecular Biology
+\n
 (main functions in chemoUtils.py)
